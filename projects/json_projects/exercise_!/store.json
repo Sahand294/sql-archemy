@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "brand": "BrandA",
+            "price": 1500
+        },
+        {
+            "id": 2,
+            "name": "Smartphone",
+            "brand": "BrandB",
+            "price": 800
+        },
+        {
+            "id": 3,
+            "name": "Headphones",
+            "brand": "BrandA",
+            "price": 300
+        },
+        {
+            "id": 4,
+            "name": "Smartwatch",
+            "brand": "BrandC",
+            "price": 1200
+        },
+        {
+            "id": 5,
+            "name": "Tablet",
+            "brand": "BrandA",
+            "price": 2000
+        },
+        {
+            "id": 6,
+            "name": "Ali",
+            "brand": "ali@example.com",
+            "price": 25
+        },
+        {
+            "id": 7,
+            "name": "Ali",
+            "brand": "ali@example.com",
+            "price": 25
+        }
+    ]
+}

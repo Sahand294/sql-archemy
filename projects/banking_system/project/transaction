@@ -1,0 +1,9 @@
+
+989 has changed the owner name to noyan
+1 has deposited 100.0$  balance:100.0
+1 has deposited 100.0$  balance:200.0
+1 has deposited 100.0$  balance:300.0
+1 has transferred 100$ from 1 to <Cheking_Account.CheckingAccount object at 0x00000130986E5400> balance:300.0
+1 has withdraw -100.0$  balance:200.0
+989 has deposited 100.0$  balance:100.0
+1 has transferred 100$ from 1 to <Cheking_Account.CheckingAccount object at 0x00000130986E5400> balance:200.0

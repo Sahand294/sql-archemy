@@ -1,0 +1,40 @@
+{
+  "professors": [
+    {
+      "id": 1,
+      "name": "Dr. Ali Rezaei",
+      "department": "Computer Science",
+      "email": "ali.rezaei@university.edu",
+      "years_of_experience": 15,
+      "courses": [
+        "Data Structures",
+        "Algorithms",
+        "Database Systems"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Prof. Sara Mohammadi",
+      "department": "Electrical Engineering",
+      "email": "sara.mohammadi@university.edu",
+      "years_of_experience": 20,
+      "courses": [
+        "Circuit Theory",
+        "Electromagnetics",
+        "Control Systems"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dr. Mohammad Jafari",
+      "department": "Mechanical Engineering",
+      "email": "mohammad.jafari@university.edu",
+      "years_of_experience": 10,
+      "courses": [
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Dynamics"
+      ]
+    }
+  ]
+}

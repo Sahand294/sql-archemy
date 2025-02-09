@@ -1,0 +1,4 @@
+owner,id,password,balance,type
+radman,1,me,200.0,normall
+me,989,hello world,100.0,cheking
+sahand,55,hi,0.0,saving
