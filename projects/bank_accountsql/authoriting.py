@@ -1,7 +1,7 @@
 from Cheking_Account import CheckingAccount
 from Savings_Account import SavingsAccount
 from Normall_Account import NormalAccount
-from projects.projects.prostgresssql.total import DataBase
+from projects.bank_accountsql.prostgresssql.total import DataBase
 c = CheckingAccount
 n = NormalAccount
 s = SavingsAccount

@@ -1,4 +1,4 @@
-from projects.projects.prostgresssql.connection_curser import Cots
+from projects.bank_accountsql.prostgresssql.connection_curser import Cots
 c = Cots()
 connection = c.connection
 cursor = c.cursor

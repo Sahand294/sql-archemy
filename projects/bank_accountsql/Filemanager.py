@@ -1,4 +1,4 @@
-from projects.projects.prostgresssql.total import DataBase
+from projects.bank_accountsql.prostgresssql.total import DataBase
 
 class Filemanager:
     @staticmethod

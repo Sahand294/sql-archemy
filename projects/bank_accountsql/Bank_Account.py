@@ -2,7 +2,7 @@ from adding_accounts import Adding_Accounts
 from abc import abstractmethod
 adding_accounts = Adding_Accounts()
 from Filemanager import Filemanager
-from projects.projects.prostgresssql.total import DataBase
+from projects.bank_accountsql.prostgresssql.total import DataBase
 balances = Filemanager()
 
 
