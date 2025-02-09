@@ -1,4 +1,4 @@
-from connection_curser import Cots
+from projects.projects.prostgresssql.connection_curser import Cots
 c = Cots()
 connection = c.connection
 cursor = c.cursor

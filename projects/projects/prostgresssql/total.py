@@ -2,7 +2,7 @@ from projects.projects.prostgresssql.Create import Create
 from projects.projects.prostgresssql.Insert import Inserting
 from projects.projects.prostgresssql.Delete import Deleting
 from projects.projects.prostgresssql.Read import  Reading
-from update import Update
+from projects.projects.prostgresssql.update import Update
 from projects.projects.prostgresssql.Altering_columns import Alter
 
 class DataBase:
