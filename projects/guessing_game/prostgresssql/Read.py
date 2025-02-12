@@ -1,4 +1,4 @@
-from projects.bank_accountsql.prostgresssql.connection_curser import  Cots
+from projects.guessing_game.prostgresssql.connection_curser import  Cots
 
 class Reading:
     @staticmethod

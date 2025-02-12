@@ -1,4 +1,4 @@
-from projects.bank_accountsql.prostgresssql.connection_curser import Cots
+from projects.guessing_game.prostgresssql.connection_curser import Cots
 
 class Update:
     def __init__(self,table:str,column:str,new_value:str,condition:str):
