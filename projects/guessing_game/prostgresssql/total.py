@@ -1,9 +1,9 @@
-from projects.bank_accountsql.prostgresssql.Create import Create
-from projects.bank_accountsql.prostgresssql.Insert import Inserting
-from projects.bank_accountsql.prostgresssql.Delete import Deleting
-from projects.bank_accountsql.prostgresssql.Read import  Reading
-from projects.bank_accountsql.prostgresssql.update import Update
-from projects.bank_accountsql.prostgresssql.Altering_columns import Alter
+from projects.guessing_game.prostgresssql.Create import Create
+from projects.guessing_game.prostgresssql.Insert import Inserting
+from projects.guessing_game.prostgresssql.Delete import Deleting
+from projects.guessing_game.prostgresssql.Read import  Reading
+from projects.guessing_game.prostgresssql.update import Update
+from projects.guessing_game.prostgresssql.Altering_columns import Alter
 
 class DataBase:
     @staticmethod
