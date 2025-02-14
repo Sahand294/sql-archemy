@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "products": [
+        {"id": 1, "name": "Laptop", "price": 1500},
+        {"id": 2, "name": "Smartphone", "price": 800}
+      ]
+    },
+    {
+      "name": "Home Appliances",
+      "products": [
+        {"id": 3, "name": "Vacuum Cleaner", "price": 300},
+        {"id": 4, "name": "Washing Machine", "price": 1200}
+      ]
+    }
+  ]
+}
