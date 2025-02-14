@@ -1,9 +1,10 @@
 from random import randint
 from registering import Register
+from  see_the_leader_board import See
 class Game:
     def __init__(self,username):
-        num = int(randint(0,2))
-        a = 0
+        num = int(randint(0,100))
+        a = 1
         Notdone = True
         while Notdone:
             i = input('guess the number:')
@@ -16,4 +17,4 @@ class Game:
             elif int(i) == num:
                 Register(username,a)
                 Notdone = False
-Game('sahand')
+Game('sas')
