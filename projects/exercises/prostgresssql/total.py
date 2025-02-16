@@ -38,7 +38,7 @@ class DataBase:
     @staticmethod
     def update(table:str,column:str,new_value:str,condition:str):
         Update(table, column, new_value, condition)
-print(DataBase.read('digital_book'))
+#print(DataBase.read('digital_book'))
 #DataBase.delete('digital_book')
 #DataBase.create('digital_book','id serial primary key,title VARCHAR(99999),author VARCHAR(99999),publish_date VARCHAR(99999)')
 #print(DataBase.read('digital_book'))
